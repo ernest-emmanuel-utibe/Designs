@@ -7,7 +7,7 @@ def my_turtle():
     # Choices
     sides = str(3)
     loops = str(450)
-    pen = 1
+    pen = 2
     # Loop
     for i in range(int(loops)):
         forward(i * 2 / int(sides) + i)
