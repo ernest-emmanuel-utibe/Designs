@@ -1,4 +1,12 @@
-sArray = ["one", "two", "three", "four", "five"]
+sentences = input("Enter a string: ")
 
-print("Original String array: ", sArray)
 
+def palindrome(string):
+    empty_string = " "
+    for every_letters_entered_by_the_user in string:
+        empty_string = every_letters_entered_by_the_user + empty_string
+
+    return empty_string
+
+
+print(palindrome(sentences))

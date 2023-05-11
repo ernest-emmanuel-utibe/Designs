@@ -1,4 +1,6 @@
 # Defined function
+from turtle import forward
+
 from turtle import *
 import turtle as t
 

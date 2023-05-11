@@ -5,5 +5,5 @@ iArray = {
 }
 
 for i in len(iArray):
-    for i in iArray[i]:
+    for j in iArray[i]:
         print(iArray)
