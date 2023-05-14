@@ -4,7 +4,7 @@ from turtle import *
 # setting the screen for drawing
 scr = turtle.Screen()
 # Defining the instance of turtle
-ttl = turtle.Turtle()
+ttlo = turtle.Turtle()
 speed(20)
 
 # keeping the pen up initially
