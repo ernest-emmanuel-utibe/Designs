@@ -9,7 +9,6 @@ window.bgcolor("#000000")
 kalam.color("yellow")
 
 ankur = 20
-
 kalam.left(90)
 kalam.penup()
 kalam.goto(-7 * ankur, 0)
