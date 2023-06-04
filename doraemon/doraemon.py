@@ -1,6 +1,6 @@
 from turtle import *
 
-# Doraemon with Python Turtle
+# Drawing Doraemon with Python Turtle
 def frame(x, y):
     penup()
     goto(x, y)
